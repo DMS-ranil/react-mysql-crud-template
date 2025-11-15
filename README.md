@@ -4,8 +4,8 @@
 [![React](https://img.shields.io/badge/React-v18.x-blue?logo=react&style=for-the-badge)](https://reactjs.org/)  
 [![MySQL](https://img.shields.io/badge/MySQL-v8.x-blue?logo=mysql&style=for-the-badge)](https://www.mysql.com/)  
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)  
-[![GitHub stars](https://img.shields.io/github/stars/DMS-Ranil/react-node-mysql-crud-template?style=social)](https://github.com/yourusername/yourrepo/stargazers)  
-[![GitHub followers](https://img.shields.io/github/followers/DMS-ranil?style=social)](https://github.com/yourusername)
+[![GitHub stars](https://img.shields.io/github/stars/DMS-Ranil/react-mysql-crud-template?style=social)](https://github.com/DMS-ranil/react-mysql-crud-template)  
+[![GitHub followers](https://img.shields.io/github/followers/DMS-ranil?style=social)](https://github.com/DMS-Ranil)
 
 ---
 
@@ -58,8 +58,8 @@ Perfect starter boilerplate for beginners and intermediate developers.
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/DMS-ranil/react-node-mysql-crud-template
-cd react-node-mysql-crud-template/backend
+git clone https://github.com/DMS-ranil/react-mysql-crud-template
+cd react-mysql-crud-template/backend
 ```
 
 2. Install Packages
@@ -74,8 +74,8 @@ npm install
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/DMS-ranil/react-node-mysql-crud-template
-cd react-node-mysql-crud-template/frontend
+git clone https://github.com/DMS-ranil/react-mysql-crud-template
+cd react-mysql-crud-template/frontend
 ```
 
 2. Install Packages
